@@ -11,8 +11,8 @@ from dotenv import load_dotenv
 
 # Load environment variables
 load_dotenv()
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
-CHUTES_API_TOKEN = os.getenv("CHUTES_API_TOKEN")
+TELEGRAM_BOT_TOKEN = 7829854901:AAEPdgxG_39D_9XqAJo3P4hMcgOV3xsBGZ4
+CHUTES_API_TOKEN = cpk_8db849bb4e9c4e69a8ea5d93f259c0f9.8a33754cce57519b8863f815f8c127a9.f7S6MwZEddzy2nl7RJ3yhwb9wyQuy8ME
 
 logging.basicConfig(level=logging.INFO)
 
